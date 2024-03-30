@@ -6,3 +6,5 @@
 ## Properties of Pair
 - Phần từ thứ nhất của pair gọi là `first` </br>
 - Phần tử thứ hai của pair gọi là `second`
+
+👉 [Back to List Topics](../LISTTOPIC.md)

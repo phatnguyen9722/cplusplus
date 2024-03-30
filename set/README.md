@@ -17,3 +17,5 @@
 |   2 |  insert() | Thêm phần tử vào trong set  |
 |   3 |  empty() | Kiểm tra set rỗng, nếu đúng trả về True, ngược lại trả về False | 
 |   4 |  clear() | Xóa toàn bộ phần tử trong set | 
+
+👉 [Back to List Topics](../LISTTOPIC.md)
