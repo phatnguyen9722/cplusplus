@@ -18,4 +18,6 @@
 |   3 |  empty() | Kiểm tra set rỗng, nếu đúng trả về True, ngược lại trả về False | 
 |   4 |  clear() | Xóa toàn bộ phần tử trong set | 
 
+[🔙 Previous Topic](../pair/README.md) </br>
+[🔜 Next Topic](../vector/README.md) </br>
 👉 [Back to List Topics](../LISTTOPIC.md)
